@@ -1,0 +1,53 @@
+C:\Users\hp\source\repos\FN\furniture\furniture\bin\Debug\furniture.exe.config
+C:\Users\hp\source\repos\FN\furniture\furniture\bin\Debug\furniture.exe
+C:\Users\hp\source\repos\FN\furniture\furniture\bin\Debug\furniture.pdb
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.Deleteuser.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.Editstaff.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.staff.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.Properties.Resources.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.exe
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.pdb
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.Dashborad.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.suppliers.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.EditSup.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.DeleteSup.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.Category.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.customer.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.edititem.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.deleteItem.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.log.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.calculate.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.cashier.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.bill.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.stoks.resources
+C:\Users\hp\source\repos\FN\furniture\furniture\obj\Debug\furniture.records.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\bin\Debug\furniture.exe.config
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\bin\Debug\furniture.exe
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\bin\Debug\furniture.pdb
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.csproj.AssemblyReference.cache
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.csproj.SuggestedBindingRedirects.cache
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.bill.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.calculate.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.cashier.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.Category.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.customer.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.deleteItem.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.DeleteSup.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.Deleteuser.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.edititem.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.Editstaff.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.Dashborad.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.EditSup.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.log.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.records.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.staff.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.Properties.Resources.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.stoks.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.suppliers.resources
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.csproj.GenerateResource.cache
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.csproj.CoreCompileInputs.cache
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.exe
+D:\1.Programs\C#\Funiture POS System\Furniture_POS-System-main\furniture\furniture\obj\Debug\furniture.pdb
